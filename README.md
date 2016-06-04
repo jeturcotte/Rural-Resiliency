@@ -1,5 +1,7 @@
 # Rural-Resiliency
 
+or, perhaps, CPR? (Community Project for Resiliency) ?
+
 An experimental project to create a free and cheap-to-host framework deployable in rural areas to encourage resilience through networking and access to metro area opportunities that may be missed otherwise.
 
 # Goals
@@ -37,3 +39,12 @@ TBD
 ## Communication Alternatives
 
 One difficulty to be overcome is that many rural communities could very easily lack the internet infrastructure that we here in the D.C. area take for granted.  To that end, being that neither this project nor the communities are likely to have the resources to simply install broadband, would be to explore alternative deployment or communication techniques to facilitate all this in spite of that.
+
+### alliances
+
+- community colleges collaborate with county-level economic development authorities.  They identify the economic activity they want to see, and work with those who churn out the talent.
+
+- census explorer
+
+- census business builder (small business edition)
+- 
